@@ -23,16 +23,16 @@
 <!--                            Logo Row                               -->
 <!-- ================================================================= -->
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="60" style="margin:0 10px;" />
-  <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="60" style="margin:0 10px;" />
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="60" style="margin:0 10px;" />
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="60" style="margin:0 10px;" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" style="margin:0 10px;" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="60" style="margin:0 10px;" />
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="60" style="margin:0 10px;" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable-product-icon.svg" alt="VS Code" width="60" style="margin:0 10px;" />
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="60" style="margin:0 12px;" />
+  <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="60" style="margin:0 12px;" />
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="60" style="margin:0 12px;" />
+  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="60" style="margin:0 12px;" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide.svg" alt="Seaborn" width="60" style="margin:0 12px;" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="60" style="margin:0 12px;" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="60" style="margin:0 12px;" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable-product-icon.svg" alt="VS Code" width="60" style="margin:0 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" style="margin:0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" style="margin:0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" style="margin:0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="margin:0 10px;" />
 </p>
 
